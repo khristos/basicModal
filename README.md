@@ -1,0 +1,4 @@
+basicModal
+==========
+
+jQuery modal plugin
